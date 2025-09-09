@@ -1,6 +1,5 @@
 # Personal Project: Self-Hosted and Cloud-Based Infrastructure
 
-### Overview
 This project integrates **Oracle Cloud Instances** with local virtual machines to create a secure, scalable hybrid environment for forensic analysis and SOC monitoring.
 
 ### Infrastructure
