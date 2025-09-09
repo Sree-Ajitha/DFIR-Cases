@@ -1,6 +1,15 @@
 # DFIR-Cases
 Queries, rules, and lab walkthroughs for DFIR 
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
+---
+### [Hybrid Infrastructure Deployment](https://github.com/Sree-Ajitha/DFIR-Cases/blob/552a4df6b5ceaf4bf4a0ed9e6572be6288c14d2a/Hybrid%20Infrastructure%20Deployment)
+***Hybrid cloud and on-premises environment for DFIR, SOC monitoring, and penetration testing with automated workflows.***
+- **Monitoring & SIEM:** Splunk, Wazuh  
+- **Vulnerability & Pen Testing:** Nessus, OpenVAS, Metasploit  
+- **Automation & Deployment:** Docker, n8n, Nginx  
+- **Network Security:** OpenVPN, OCI VPN, Entra AD RBAC 
+
+---
 ## 🚧 Development Roadmap
 
 - [x] Initial repo setup
