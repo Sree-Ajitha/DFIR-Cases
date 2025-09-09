@@ -8,7 +8,6 @@ This project integrates **Oracle Cloud Instances** with local virtual machines t
 | OCI | Ubuntu 24.04 | Cloud Server | 122.67.0.0/13 |
 | VMware | Kali Linux 2025.1 | Penetration Tester | 178.16.16.92/16 |
 | VMware | Windows Server 2025 STD | AD Server | 178.16.16.250/16 |
-|----------|----|------|----|
 
 ## 🔐 Security & Access Control
 - **SSH Keygen**: Secure access to all instances
